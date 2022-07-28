@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+/* Margin top */
+.mar-top {
+    margin-top: 10%;
+}
+/* style of navbar brand */
+.navbar-brand {
+    font-weight: 600;
+    color: #4A4A4A;
+}
+
+/* Slider heading style */
+h1 {
+    font-weight: 600;
+}
+
+/* All paragraph tags color */
+p, small {
+    color: rgb(142, 139, 139);
+}
+
+/* All title style */
+h2, h3, h5, h6 {
+    font-weight: 600;
+    color: #1d1d1dde;
+}
+
+.ready-to-join-title {
+    color: white;
+}
+
+/* Slider paragraph style */
+#slider-p {
+    color: rgb(200, 199, 199);
+}
+
+/* Ready to join section */
+.register-now-text {
+    color: whitesmoke;
+}
+
+/* Star icons style */
+.fa-star, .fa-star-half-stroke {
+    color: gold;
+}
+
+/* Accordions */
+
+
+/* Footer title */
+footer h2 {
+    font-weight: 600;
+    color: rgb(225, 223, 223);
+}
+
+/* Footer icons */
+.fa-brands{
+    text-decoration: none;
+    color: white;
+    font-size: 1.4rem;
+}
