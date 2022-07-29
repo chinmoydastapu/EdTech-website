@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 body {
     font-family: 'Poppins', sans-serif;
 }
+
 /* Margin top */
 .mar-top {
     margin-top: 10%;
 }
-/* style of navbar brand */
+
+/* Style of navbar brand */
 .navbar-brand {
     font-weight: 600;
     color: #4A4A4A;
@@ -18,12 +21,16 @@ h1 {
 }
 
 /* All paragraph tags color */
-p, small {
+p,
+small {
     color: rgb(142, 139, 139);
 }
 
 /* All title style */
-h2, h3, h5, h6 {
+h2,
+h3,
+h5,
+h6 {
     font-weight: 600;
     color: #1d1d1dde;
 }
@@ -43,12 +50,10 @@ h2, h3, h5, h6 {
 }
 
 /* Star icons style */
-.fa-star, .fa-star-half-stroke {
+.fa-star,
+.fa-star-half-stroke {
     color: gold;
 }
-
-/* Accordions */
-
 
 /* Footer title */
 footer h2 {
@@ -57,7 +62,7 @@ footer h2 {
 }
 
 /* Footer icons */
-.fa-brands{
+.fa-brands {
     text-decoration: none;
     color: white;
     font-size: 1.4rem;
